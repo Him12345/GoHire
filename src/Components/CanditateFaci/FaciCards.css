@@ -1,0 +1,27 @@
+.Cards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5vw;
+    background-color: #E1EBEE;
+    border-radius: 2vw;
+    margin: 5vw;
+    padding-bottom: 0;
+    color: #004687;
+}
+.Cards h1{
+   font-family: 'Karla', sans-serif;
+   font-weight: 700;
+   font-size: 2.5vw;
+
+}
+
+.Cards p{
+    font-family: 'Karla', sans-serif;
+    font-weight: 300;
+    padding-top: 2vw;
+ 
+ }
+ .Cards img{
+ }

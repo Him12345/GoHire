@@ -1,0 +1,128 @@
+.footer{
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   font-family: 'Karla', sans-serif;
+   padding: 5vw;
+   background-color:#002147;
+   color: white;
+   
+
+}
+.footer .foot{
+   border: 1px solid white;
+   padding: 1.1vw;
+   box-shadow: 1vw 1vw 1.2vw;
+   border-radius: 1vw;
+
+}
+.footer .foot1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.foot .GO{
+  color: #004687 ;
+  font-size: 5vw;
+  font-weight: 700;
+
+}
+
+.foot .HIRE{
+    color: #0268c7 ;
+  font-size: 5vw;
+  font-weight: 700;
+
+
+}
+
+.footer .foot1 h2{
+  font-size: 1.8vw;
+  font-weight: 900;
+}
+
+.lowerfooter{
+  font-size: 1vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color:#002147;
+  padding: 2vw;
+
+}
+
+.copyright{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 1.3vw;
+}
+
+
+.socialmediaicon{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    color: white;
+    width: 10vw;
+    font-size: 1.5vw;
+}
+.socialmediaicon .socialicon{
+    transition: all ease 1s;
+}
+.socialmediaicon .socialicon:hover{
+    scale: 1.5;
+}
+
+
+
+@media (max-width:600px) {
+    .footer{
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        height: 95vh;
+
+    }
+    .footer .foot h2{
+        font-size: 3vw;
+        font-weight: 700;
+      }
+      .footer .foot{
+     
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .foot .GO{
+        color: #004687 ;
+        font-size: 5vw;
+        font-weight: 700;
+      
+      }
+      .copyright{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        font-size: 1.8vw;
+    }
+    
+      .socialmediaicon{
+        display: flex;
+        justify-content: space-evenly;
+        text-align: center;
+        color: white;
+        width: 15vw;
+        font-size: 3vw;
+    }
+    .footer .foot1 h2{
+        font-size: 3vw;
+        font-weight: 900;
+      }
+    
+}

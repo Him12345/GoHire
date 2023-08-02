@@ -1,0 +1,114 @@
+.buttons button{
+   font-size: 2vh;
+   padding-left: 2vh;
+   padding-right: 2vh;
+   background-color:#004687;
+   color: white;
+   margin-left: 1vh;
+   border-radius: .6vh;
+   padding-top: .3vh;
+   padding-bottom: .3vh;
+   font-family: 'Karla', sans-serif;
+
+
+}
+
+.menu{
+    font-size: 2vh;
+    width: 50vw;
+    display: flex;
+    justify-content: space-around;
+   font-family: 'Karla', sans-serif;
+   font-weight: 500;
+   position: sticky;
+   top:0;
+
+     
+    
+}
+
+.menu h6{
+    cursor: pointer;
+}
+.logo{
+    font-weight: bolder;
+    font-size: 1.5rem;
+    padding: 0 2vw;
+}
+
+.logo .GO{
+  color: #004687 ;
+}
+
+.logo .HIRE{
+    color: #0268c7 ;
+  }
+.menuicon{
+    display: none;
+    cursor: pointer;
+}
+
+.main{
+}
+
+.menuicon {
+  cursor: pointer;
+}
+
+.dropdown-content {
+  position: absolute;
+  top: 40px; 
+  right: 0;
+  width: 100vw;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  z-index: 1; 
+
+}
+
+.dropdown-content ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.dropdown-content li {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.dropdown-content li:hover {
+  background-color: rgb(250, 250, 250);
+}
+
+
+/* .shadow{
+    content: "";
+    height: 1vh;
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(112, 112, 112, 0.747) 35%, rgba(0, 0, 0, 0.705) 100%);
+} */
+  @media (max-width:600px) {
+    .menuicon{
+        display: block;
+    }    
+
+    .menu{
+      display: none;
+         
+        
+    }
+    .buttons button{
+   display: none;
+     
+     
+     }
+
+     .shadow{
+         display: none;
+       
+    }
+  }
