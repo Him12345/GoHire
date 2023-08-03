@@ -15,7 +15,7 @@ const Header = () => {
 
     <>
 
-<div className="main flex h-[4vw]  items-center justify-between p-5">
+<div className="main h-[4vw]   p-5">
 
 <div className="logo  ">
   <span className='GO'>Go</span><span className='HIRE'>Hire</span>
@@ -33,10 +33,11 @@ const Header = () => {
 </div>
 
 
-<div className="buttons flex  justify-space">
+<div className="buttons flex justify-space">
   <button>Find Job</button>
   <button>Hire Talent</button>
 </div>
+
 
 <div className='dropdown-container'>
       <div className='menuicon' onClick={toggleMenu}>
