@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GoHire/static/css/main.d1d1fcff.css",
-    "main.js": "/GoHire/static/js/main.e29b2747.js",
+    "main.css": "/GoHire/static/css/main.180aae5e.css",
+    "main.js": "/GoHire/static/js/main.79acbc52.js",
     "static/js/787.2dcb6793.chunk.js": "/GoHire/static/js/787.2dcb6793.chunk.js",
     "static/media/bannerimg.jpg": "/GoHire/static/media/bannerimg.50845cb0cae2dfe2af2c.jpg",
     "static/media/team1.png": "/GoHire/static/media/team1.0711be5b6aaef98d19c3.png",
@@ -13,12 +13,12 @@
     "static/media/facebook.png": "/GoHire/static/media/facebook.59c59c9a3943fc380b33.png",
     "static/media/amazon.webp": "/GoHire/static/media/amazon.51ebc67c2bc1701ce4f7.webp",
     "index.html": "/GoHire/index.html",
-    "main.d1d1fcff.css.map": "/GoHire/static/css/main.d1d1fcff.css.map",
-    "main.e29b2747.js.map": "/GoHire/static/js/main.e29b2747.js.map",
+    "main.180aae5e.css.map": "/GoHire/static/css/main.180aae5e.css.map",
+    "main.79acbc52.js.map": "/GoHire/static/js/main.79acbc52.js.map",
     "787.2dcb6793.chunk.js.map": "/GoHire/static/js/787.2dcb6793.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1d1fcff.css",
-    "static/js/main.e29b2747.js"
+    "static/css/main.180aae5e.css",
+    "static/js/main.79acbc52.js"
   ]
 }
