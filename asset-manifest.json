@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/GoHire/static/css/main.180aae5e.css",
-    "main.js": "/GoHire/static/js/main.79acbc52.js",
-    "static/js/787.2dcb6793.chunk.js": "/GoHire/static/js/787.2dcb6793.chunk.js",
-    "static/media/bannerimg.jpg": "/GoHire/static/media/bannerimg.50845cb0cae2dfe2af2c.jpg",
-    "static/media/team1.png": "/GoHire/static/media/team1.0711be5b6aaef98d19c3.png",
-    "static/media/team2.png": "/GoHire/static/media/team2.80adc57d21a80905a673.png",
-    "static/media/team3.png": "/GoHire/static/media/team3.f4a8bcba388bf641f4f7.png",
-    "static/media/tata.png": "/GoHire/static/media/tata.0a9a32a1968dff769680.png",
-    "static/media/google.png": "/GoHire/static/media/google.b31361249fb7518952ee.png",
-    "static/media/airbnb.jpeg": "/GoHire/static/media/airbnb.9caec3470daa68dce8e2.jpeg",
-    "static/media/facebook.png": "/GoHire/static/media/facebook.59c59c9a3943fc380b33.png",
-    "static/media/amazon.webp": "/GoHire/static/media/amazon.51ebc67c2bc1701ce4f7.webp",
-    "index.html": "/GoHire/index.html",
-    "main.180aae5e.css.map": "/GoHire/static/css/main.180aae5e.css.map",
-    "main.79acbc52.js.map": "/GoHire/static/js/main.79acbc52.js.map",
-    "787.2dcb6793.chunk.js.map": "/GoHire/static/js/787.2dcb6793.chunk.js.map"
+    "main.css": "/Gohire/static/css/main.180aae5e.css",
+    "main.js": "/Gohire/static/js/main.d3a3cf18.js",
+    "static/js/787.2dcb6793.chunk.js": "/Gohire/static/js/787.2dcb6793.chunk.js",
+    "static/media/bannerimg.jpg": "/Gohire/static/media/bannerimg.50845cb0cae2dfe2af2c.jpg",
+    "static/media/team1.png": "/Gohire/static/media/team1.0711be5b6aaef98d19c3.png",
+    "static/media/team2.png": "/Gohire/static/media/team2.80adc57d21a80905a673.png",
+    "static/media/team3.png": "/Gohire/static/media/team3.f4a8bcba388bf641f4f7.png",
+    "static/media/tata.png": "/Gohire/static/media/tata.0a9a32a1968dff769680.png",
+    "static/media/google.png": "/Gohire/static/media/google.b31361249fb7518952ee.png",
+    "static/media/airbnb.jpeg": "/Gohire/static/media/airbnb.9caec3470daa68dce8e2.jpeg",
+    "static/media/facebook.png": "/Gohire/static/media/facebook.59c59c9a3943fc380b33.png",
+    "static/media/amazon.webp": "/Gohire/static/media/amazon.51ebc67c2bc1701ce4f7.webp",
+    "index.html": "/Gohire/index.html",
+    "main.180aae5e.css.map": "/Gohire/static/css/main.180aae5e.css.map",
+    "main.d3a3cf18.js.map": "/Gohire/static/js/main.d3a3cf18.js.map",
+    "787.2dcb6793.chunk.js.map": "/Gohire/static/js/787.2dcb6793.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.180aae5e.css",
-    "static/js/main.79acbc52.js"
+    "static/js/main.d3a3cf18.js"
   ]
 }
