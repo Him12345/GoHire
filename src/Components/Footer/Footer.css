@@ -70,6 +70,7 @@
     color: white;
     width: 10vw;
     font-size: 1.5vw;
+    cursor: pointer;
 }
 .socialmediaicon .socialicon{
     transition: all ease 1s;

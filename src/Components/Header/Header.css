@@ -59,8 +59,8 @@ cursor: pointer;
   justify-content: space-between;
   position: sticky;
   top:0;
- border: 1px solid black ;
  background-color: white;
+ padding: 1vw;
 }
 
 .menuicon {

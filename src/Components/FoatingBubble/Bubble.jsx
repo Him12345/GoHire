@@ -19,7 +19,7 @@ const Bubble = () => {
       <>
 <div className="headlineCon">
 
-<h1>LEADING COMPANIES BUILD TEAMS ON TOPHIRE</h1>
+<h1>LEADING COMPANIES BUILD TEAMS ON GoHire</h1>
 </div>
 <div class="container">
 <span class="bub a "><img src={img1} alt="" /></span>
